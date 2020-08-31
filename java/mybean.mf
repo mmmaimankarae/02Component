@@ -1,0 +1,4 @@
+Main-Class: mybean.MyBean
+Name: mybean/MyBean.class
+Java-Bean: True
+
