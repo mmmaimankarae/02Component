@@ -1,4 +1,5 @@
 package deepagregation;
+/* Client */
 public class DeepAgregation {
     public static void main(String[] args) {
        A a = new A();
@@ -6,5 +7,4 @@ public class DeepAgregation {
        a.b.methodForB();
        a.b.c.methodForC();
     }
-    
 }

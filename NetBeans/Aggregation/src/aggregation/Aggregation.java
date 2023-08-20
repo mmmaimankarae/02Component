@@ -1,4 +1,5 @@
 package aggregation;
+/* Client */
 public class Aggregation {
     public static void main(String[] args) {
         int val = 5;
@@ -8,7 +9,7 @@ public class Aggregation {
         }
         else {
             a.b.yyy(val);
+            /* คล้าย System.out.print(); */
         }
     }
-    
 }
